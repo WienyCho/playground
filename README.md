@@ -6,8 +6,8 @@ CV+DL学习练习仓库｜配套计划见 privacy-masking/docs/项目计划.md
 
 | Day | 主题 | 脚本 | 状态 |
 |---|---|---|---|
-| 1 | 输入输出+f-string | day1_greeting.py | ⬜ |
-| 2 | 列表/字典/循环 | day2_char_count.py / day2_multiply.py / day2_fibonacci.py | ⬜ |
+| 1 | 输入输出+f-string | day1_greeting.py | ✅ |
+| 2 | 列表/字典/循环 | day2_char_count.py / day2_multiply.py / day2_fibonacci.py | ✅ |
 | 3 | 函数+文件IO | day3_image_csv.py | ⬜ |
 | 4 | numpy基础 | day4_numpy_image.py | ⬜ |
 | 5 | 类与面向对象 | day5_image_dataset.py | ⬜ |
